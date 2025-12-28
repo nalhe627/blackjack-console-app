@@ -36,7 +36,7 @@ cd blackjack-console-app
 1. Complete the [installation steps](#installation) and build the project as a JAR file:
 
 ```bash
-jar cvfm BlackJack.jar Manifest.txt -C bin . lib res
+jar cvfm BlackJack.jar Manifest.txt -C bin . res
 ```
 
 2. Run the JAR file:
